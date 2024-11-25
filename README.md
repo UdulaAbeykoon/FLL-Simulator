@@ -1,6 +1,5 @@
 # FLL SIMULATOR
 
-![SimulatorGameplay](exampleFLLSIMgameplay.png)
 
 ## 🤖What is FLL Sim?
 
