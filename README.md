@@ -22,7 +22,7 @@ With this tool, my goal was to bridge the gap between theoretical learning and a
 2.  To create the programming interface, I utilized Google's open-source library, "Blockly", which allows for the creation of visual, drag-and-drop coding blocks. I customized these blocks to mirror the exact functionality used in real FLL competitions, ensuring the 
     simulation aligns closely with the programming logic students would use on a physical EV3 robot.
 
-3,  Finally, I integrated the custom blocks with the 3D models, enabling users to program the simulated robot directly through an intuitive drag-and-drop interface. This seamless connection allows users to see their code in action as the robot performs tasks on the 
+3.  Finally, I integrated the custom blocks with the 3D models, enabling users to program the simulated robot directly through an intuitive drag-and-drop interface. This seamless connection allows users to see their code in action as the robot performs tasks on the 
     virtual field, providing an engaging and effective learning platform.
 
 ## 🚧 Challenges Faced in Making FLL Sim
