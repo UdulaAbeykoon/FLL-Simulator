@@ -1,5 +1,7 @@
 # FLL SIMULATOR
 
+![SimulatorGameplay](exampleFLLSIMgameplay.png)
+
 ## 🤖What is FLL Sim?
 
 FLL Sim is a free-to-use application that simulates LEGO robots, enabling students to learn and practice block programming without the need for a physical robot.
