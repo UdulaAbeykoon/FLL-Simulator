@@ -1,5 +1,5 @@
 # FLL SIMULATOR
-
+![SimultorDEMOImage](FLLSIMdemogameplay.png)
 
 ## 🤖What is FLL Sim?
 
